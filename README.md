@@ -10,9 +10,9 @@
     This isn't very surprising when considering the small portion of students that were removed (461) from the total number of students in the data (39,170).  The cheaters represnt just a little more than 1% of the total popuraltion, so removing them from the data shouldn't change the data too drastically.  The exceptions would be if the entire grade 9th grade of Thomas High School was scoring signficatnly higher or significantly lower than the rest of the population.  The law of averages would suggest that this is highly unlikely and the results of our analysis confirm the hypothsis. 
 
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original District Analysis](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_district_summary.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated District Analysis](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_district_summary.png)
 
 ## 2.  Per School Summary Analyses Comparison
     Comparing the results of the Analyses between the per school summary we see the first significant shift in performance for Thomas High School.  While we only lost a small subset of data in the Total School District Analysis, roguhly 1%. 
@@ -20,14 +20,13 @@
     Losing a little more than a quarter of your scoring data for the school we expect to see more drastic changes, as seen in the images below. However, after reviewing the significance of that change in caluclation, we resolve to remove the 9th graders from the count of students amongst Thomas High School population, which will result in a more accurate representation of those students who preformed faily in the testing process.   
 
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original Per School Analysis](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_per_school_summary.png)
 
 ### Mid-point Results
-
-
+![midpoint Analysis](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/Updated_per_school_summary_midpoint.png)
 
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated Per School Analysis](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/Updated_per_school_summary.png)
 
 
 ## 3. Top Prefroming Schools
@@ -35,56 +34,52 @@
 
 
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original Top Performs](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_top_preforming_schools.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated Top Performs](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_top_preforming_schools.png)
 
 
 
 ## 4. Bottom Prefroming Schools
     The Bottom preforming schools saw no real impact from our updated analysis.  Since the student at these schools did not have any updates to their scores as Thomas High School did.  The results are identical. 
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original bottom Performs](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_bottom_preforming_schools.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
-
+![Updated bottom Performs](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_bottom_preforming_schools.png)
 
 ## 5. Average Math by Grade
      In the Average Math Grades analyses we see the first instance of "nan" appear in one of our summary report outputs.  Having successfully replaced the 9th grade Thomas High School students with the "nan" value; we see the output in our updated summary.  Which is the only change between the two reports.  Since no other school or grade has had updated values the scores and outputs are identical the original output we created; as seen below.
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original math by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_math_by_grade.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated math by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_math_by_grade.png)
 
 ## 6. Average Reading by Grade
     Similarly to the Math by Grade analysis I just described, we see here that the only impacted grade or school is the 9th grade Thomas High School. Again the output shows "nan" showing we had successfully replaced those "cheating" students scores.  The remainder of the values are identical to our original summary. 
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_reading_by_grade.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_reading_by_grade.png)
 
 ## 7. Scores by School Spending per Student
     Since we have removed the cheating students from our count and are only accounting for the 10th - 12th grade students. As I stated back in the top preforming schools - since we aren't accounting for the additional students with no grade, the overall percentages return to roguhly the same as in the original analayses.  Since that is only a tenth of a percent for all the calculations when we have all figures rounded off to a whole number the scores come out identical to our original summary output. 
 
-
 ### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_school_spending_ranges_per_student.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_school_spending_ranges_per_student.png)
 
 ## 8. Scores by School Size
     As explained in the other analyses above - since we have corrected for both the cheating scores and updated the count for Thomas High school to only include non-cheating grades, we see results are virtually identiacal to our initial analysis. 
-### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_school_size_summary.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_school_size_summary.png)
 
 ## 9. Scores by School Type
     Similar to the School Spending per student and scores by school size before, these updated outputs are very similar to our original analysis results, as shown below. 
-### Original Analysis
-            *********OLD IMGAGE INSERT**********
+![Original reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/original_school_type_summary.png)
 ### Updated Analysis
-            *********NEW IMGAGE INSERT**********
+![Updated reading by grade](https://github.com/Gkmb2390/School_District_Analysis/blob/main/Resources/updated_school_type_summary.png)
 
 
 
